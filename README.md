@@ -23,10 +23,11 @@ so no function name will be shown explicitely in reverse engineering software su
 
 ### Relocation table
 
+![Capture](/Image/Capture1.JPG)
+
 ![Capture](/Image/Capture.JPG)
 
-![Capture1](/Image/Capture1.JPG)
-
+https://github.com/Haivilo/executable-encryptor.git
 ###  Section table
 
 ![Capture4](/Image/Capture4.JPG)
