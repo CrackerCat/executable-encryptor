@@ -27,7 +27,6 @@ so no function name will be shown explicitely in reverse engineering software su
 
 ![Capture](/Image/Capture.JPG)
 
-https://github.com/Haivilo/executable-encryptor.git
 ###  Section table
 
 ![Capture4](/Image/Capture4.JPG)
